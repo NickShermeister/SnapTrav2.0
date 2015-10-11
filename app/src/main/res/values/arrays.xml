@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="name">
+        <item> </item>
+        <item>5 minutes early</item>
+        <item>4 minutes early</item>
+        <item>3 minutes early</item>
+        <item>2 minutes early</item>
+        <item>1 minutes early</item>
+        <item>[on time]</item>
+        <item>1 minute late</item>
+        <item>2 minutes late</item>
+        <item>3 minutes late</item>
+        <item>4 minutes late</item>
+        <item>5 minutes late</item>
+        <item>6 minutes late</item>
+        <item>7 minutes late</item>
+        <item>8 minutes late</item>
+        <item>9 minutes late</item>
+        <item>10 minutes late</item>
+        <item>11 minutes late</item>
+        <item>12 minutes late</item>
+        <item>13 minutes late</item>
+        <item>14 minutes late</item>
+        <item>15 minutes late</item>
+        <item>16 minutes late</item>
+        <item>17 minutes late</item>
+        <item>18 minutes late</item>
+        <item>19 minutes late</item>
+        <item>20 minutes late</item>
+
+    </string-array>
+
+    <string-array name="line">
+        <item>  </item>
+        <item>Red</item>
+    </string-array>
+
+
+
+</resources>
